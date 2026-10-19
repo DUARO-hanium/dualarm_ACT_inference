@@ -1,0 +1,12 @@
+*
+!cyclo_intelligence
+!cyclo_intelligence/cyclo_brain
+!cyclo_intelligence/cyclo_brain/policy
+!cyclo_intelligence/cyclo_brain/policy/common
+!cyclo_intelligence/cyclo_brain/policy/common/s6-services
+!cyclo_intelligence/cyclo_brain/policy/common/s6-services/**
+!cyclo_intelligence/cyclo_brain/policy/lerobot
+!cyclo_intelligence/cyclo_brain/policy/lerobot/lerobot
+!cyclo_intelligence/cyclo_brain/policy/lerobot/lerobot/**
+**/.git
+**/__pycache__
